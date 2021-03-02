@@ -5,14 +5,14 @@ Fiz um projeto de cadastro no site AutomationPractice com as tecnologias: Python
 Abaixo um tutorial para instalar o python o robot e rodar os scripts de testes via cmd. 
 
 
-1. Instalar o Python 
+1. Instalar o Python, última versão 
 2. Baixar a IDE Atom
 3. Instalar o Robot Framework via cmd >> pip install robotframework
 4. Instalar as bibliotecas externas >> pip install --upgrade robotframework-seleniumlibrary e pip install robotframework-requests
 5. Baixar os drivers: geckodriver e chromedriver.exe (Colocar os drivers na pasta: AppData\Local\Programs\Python\Python38-32\Scripts)
-6. pip freeze - listar libraries do python
+6. pip freeze - listar libraries do python para verificar se foram instaladas as bibliotecas
 7. pip install -U robotframework - Atualizar libraries
-8. Executar o teste: robot -d .\results tests\CadastroUsuario.robot
+8. Entrar pelo cmd dentro da pasta aonde foi salvo o projeto e Executar o teste: robot -d .\results tests\CadastroUsuario.robot
 9. Substituir navegador: robot -v BROWSER:chrome tests\TestSitePractice.robot
 
 
