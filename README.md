@@ -2,7 +2,7 @@
 
 Fiz um projeto de cadastro no site AutomationPractice com as tecnologias: Python38-32 e Robot Framework. Obs: Esse é apenas um projeto a mais que eu fiz (plus), o projeto principal é o feito em Java que está no meu GitHub. 
 
-Abaixo um tutorial para instalar o python o robot e rodar os scripts de testes via cmd. 
+Abaixo um tutorial para instalar o python, o robot e rodar os scripts de testes via cmd. 
 
 
 1. Instalar o Python, última versão 
