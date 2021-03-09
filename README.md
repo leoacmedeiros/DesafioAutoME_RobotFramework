@@ -13,7 +13,7 @@ Abaixo um tutorial para instalar o python, o robot e rodar os scripts de testes 
 6. pip freeze - listar libraries do python para verificar se foram instaladas as bibliotecas
 7. pip install -U robotframework - Atualizar libraries
 8. Entrar pelo cmd dentro da pasta aonde foi salvo o projeto e Executar o teste: robot -d .\results tests\CadastroUsuario.robot
-9. Substituir navegador: robot -v BROWSER:chrome tests\TestSitePractice.robot
+9. Substituir navegador: robot -v BROWSER:chrome tests\CadastroUsuario.robot
 
 
 Procurar atualizações
